@@ -1,0 +1,13 @@
+{
+    "name": "yixing1987/987_buffer",
+    "description": "test composer",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "cyx",
+            "email": "yx@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
